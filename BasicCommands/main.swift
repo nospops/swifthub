@@ -10,3 +10,6 @@ import Foundation
 
 print("Hello, World!")
 
+if true{
+    print("hi")
+}
